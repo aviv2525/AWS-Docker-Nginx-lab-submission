@@ -23,11 +23,11 @@ Create an Ubuntu EC2 instance on AWS, install Docker, and run an Nginx container
 
 ## Screenshots
 
-![EC2](screenshot8.png)
+![EC2](Screenshot8.png)
 
-![Docker](screenshot7.png)
+![Docker](Screenshot7.png)
 
-![Nginx](screensho8.png)
+![Nginx](Screensho8.png)
 
 
 
