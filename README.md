@@ -21,16 +21,19 @@ Create an Ubuntu EC2 instance on AWS, install Docker, and run an Nginx container
 
 ## Docker Command Used
 
+## Screenshots
+
+![EC2](screenshot8.png)
+
+![Docker](screenshot7.png)
+
+![Nginx](screensho8.png)
+
+
+
 ```bash
 sudo docker run -d --name nginx-lab -p 80:80 nginx:latest
 
-## Screenshots
-
-![EC2](screenshot7.png)
-
-![Docker](screenshot8.png)
-
-![Nginx](screensho8.png)
 
 
 ```text
